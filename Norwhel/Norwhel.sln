@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EB38E91B-97E9-7AAC-73CB-6854EFD03452}") = "Norwhel", "Assembly-CSharp-firstpass.csproj", "{8ADFA59D-7D0A-E8C9-253E-0D05DBD77008}"
+EndProject
+Project("{EB38E91B-97E9-7AAC-73CB-6854EFD03452}") = "Norwhel", "Assembly-CSharp-Editor-firstpass.csproj", "{385ADA49-57B0-DC40-0596-8A49DF350926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADFA59D-7D0A-E8C9-253E-0D05DBD77008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADFA59D-7D0A-E8C9-253E-0D05DBD77008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADFA59D-7D0A-E8C9-253E-0D05DBD77008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADFA59D-7D0A-E8C9-253E-0D05DBD77008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385ADA49-57B0-DC40-0596-8A49DF350926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385ADA49-57B0-DC40-0596-8A49DF350926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385ADA49-57B0-DC40-0596-8A49DF350926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385ADA49-57B0-DC40-0596-8A49DF350926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
