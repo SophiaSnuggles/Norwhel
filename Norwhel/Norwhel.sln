@@ -1,9 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{EB38E91B-97E9-7AAC-73CB-6854EFD03452}") = "Norwhel", "Assembly-CSharp-firstpass.csproj", "{8ADFA59D-7D0A-E8C9-253E-0D05DBD77008}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norwhel", "Assembly-CSharp-firstpass.csproj", "{8ADFA59D-7D0A-E8C9-253E-0D05DBD77008}"
 EndProject
-Project("{EB38E91B-97E9-7AAC-73CB-6854EFD03452}") = "Norwhel", "Assembly-CSharp-Editor-firstpass.csproj", "{385ADA49-57B0-DC40-0596-8A49DF350926}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norwhel", "Assembly-CSharp.csproj", "{526C1BE6-9EC2-1AC0-7F9A-AE2F9BD48E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Norwhel", "Assembly-CSharp-Editor-firstpass.csproj", "{385ADA49-57B0-DC40-0596-8A49DF350926}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8ADFA59D-7D0A-E8C9-253E-0D05DBD77008}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ADFA59D-7D0A-E8C9-253E-0D05DBD77008}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ADFA59D-7D0A-E8C9-253E-0D05DBD77008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526C1BE6-9EC2-1AC0-7F9A-AE2F9BD48E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526C1BE6-9EC2-1AC0-7F9A-AE2F9BD48E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526C1BE6-9EC2-1AC0-7F9A-AE2F9BD48E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526C1BE6-9EC2-1AC0-7F9A-AE2F9BD48E65}.Release|Any CPU.Build.0 = Release|Any CPU
 		{385ADA49-57B0-DC40-0596-8A49DF350926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{385ADA49-57B0-DC40-0596-8A49DF350926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{385ADA49-57B0-DC40-0596-8A49DF350926}.Release|Any CPU.ActiveCfg = Release|Any CPU

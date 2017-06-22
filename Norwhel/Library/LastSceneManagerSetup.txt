@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/what.unity
+- path: Assets/Scenes/Norwhel.unity
   isLoaded: 1
   isActive: 1
